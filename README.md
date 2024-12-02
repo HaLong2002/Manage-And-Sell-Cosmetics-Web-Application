@@ -1,8 +1,8 @@
-# Manage And Sell Cosmetics Website
+# Manage And Sell Cosmetics Web Application
 
 ## Introduction
 
-Welcome to the Manage And Sell Cosmetics Online project! This website is designed to streamline the management of a cosmetics store, providing features to handle inventory, sales, customer relationships, and reporting.
+Welcome to the Manage And Sell Cosmetics Web Application project! This web app is designed to streamline the management of a cosmetics store, providing features to handle inventory, sales, customer relationships, and reporting.
 
 
 ## Features
