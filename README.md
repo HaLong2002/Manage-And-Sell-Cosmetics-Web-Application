@@ -1,4 +1,4 @@
-# Manage-And-Sell-Cosmetics-Online
+# Manage-And-Sell-Cosmetics-Website
 
 ## Introduction
 
